@@ -4,6 +4,7 @@
 Today, I made significant strides in enhancing my Flask applications with SQLAlchemy for better database management. Here’s a summary of the key concepts and improvements:
 
 ### DEMO
+Note: TO access the SQL database, you will need to download SQLite to open the db file
 ![](https://github.com/AlvinChin1608/day63_100/blob/main/gif_demo/full_demo_SQLDBconverter.gif)
 
 ## Using SQLAlchemy for Database Management:
